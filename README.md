@@ -15,6 +15,7 @@
 
 ## Current Output using Anime Styling
 
+![Masterlayer_Event221_SetA png_anime jpg_generated_at_iteration_2000](https://github.com/vsuhas9/StyleTransfer/assets/34618423/f5f556cd-2945-49b7-95e8-216274702bad)
 
 ## Current Research and Approaches:
 - There have been several recent advancements in GANs and style transfer.
